@@ -3,7 +3,7 @@
     public class GitTest
     {
         string msg = "Git 가즈아~~";
-      //ㄹㄴㅇㄴㅇㄴㅇㄹㄴㅇㄹ  ㅇㅁㅇ
+
         //ㅁㄴㅇㄴㅁ
 
     }
